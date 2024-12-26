@@ -1,0 +1,12 @@
+.lnk{
+    text-decoration:none;
+    color:yellow;
+    text-shadow:0 0 10px orange;
+    transition:0.5s all linear;
+        
+}
+.lnk:hover{
+    font-size:32px;
+    transition:0.5s all linear;
+    position:relative;
+}

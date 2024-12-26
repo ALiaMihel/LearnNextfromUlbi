@@ -1,0 +1,18 @@
+.btc{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 33%;
+    top: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.7s all linear;
+}
+.btc:hover{
+    box-shadow: 0 0 100px orangered;
+    color: green;
+    transition: 0.7s all linear;
+}
